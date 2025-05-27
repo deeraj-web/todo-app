@@ -39,6 +39,6 @@ Click on the task → it's crossed out.
 
 Click ❌ → it disappears.
 
-✍️ Author
+## Author
 P Deeraj
 Web Development Intern
